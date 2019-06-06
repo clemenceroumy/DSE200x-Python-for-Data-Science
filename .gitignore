@@ -1,0 +1,13 @@
+Week-4-Pandas/movielens/
+Week-5-Visualization/world-development-indicators/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
